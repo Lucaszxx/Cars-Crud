@@ -1,0 +1,116 @@
+{
+  "fabricantes": [
+    {
+      "id": 1,
+      "nome": "Honda",
+      "origem": "Japão",
+      "logo": "https://i.ibb.co/5chyKmW/png-transparent-honda-logo.png"
+    },
+    {
+      "id": 2,
+      "nome": "Nissan",
+      "origem": "Japão",
+      "logo": "https://i.ibb.co/fGy55x2/logo-Nissan.png"
+    },
+    {
+      "id": 3,
+      "nome": "Toyota",
+      "origem": "Japão",
+      "logo": "https://i.ibb.co/b73xBnb/toyota-logo-4.png"
+    },
+    {
+      "id": 4,
+      "nome": "Caoa Chery",
+      "origem": "China",
+      "logo": "https://i.ibb.co/D8b0T7Z/caoa-chery-logo-0.png"
+    },
+    {
+      "id": 5,
+      "nome": "Volkswagen",
+      "origem": "Alemanha",
+      "logo": "https://i.ibb.co/M71S4YF/volkswagen-vw-logo-0.png"
+    },
+    {
+      "id": 6,
+      "nome": "Ford",
+      "origem": "Estados Unidos",
+      "logo": "https://i.ibb.co/5TnF1Xj/logoford.png"
+    },
+    {
+      "id": 7,
+      "nome": "Mitsubishi",
+      "origem": "Japão",
+      "logo": "https://i.ibb.co/TMVqhFb/logomitsubishi.png"
+    },
+    {
+      "id": 8,
+      "nome": "Chevrolet",
+      "origem": "Estados Unidos",
+      "logo": "https://i.ibb.co/7n4DQk4/logoChev.png"
+    },
+    {
+      "id": 9,
+      "nome": "Subaru",
+      "origem": "Japão",
+      "logo": "https://i.ibb.co/Jqr2cDW/subaru-Logo.png"
+    },
+    {
+      "id": 10,
+      "nome": "Bmw",
+      "origem": "Alemanha",
+      "logo": "https://i.ibb.co/r4xfvGz/bmwLogo.png"
+    }
+  ],
+  "modelos": [
+    {
+      "nome": "Escort",
+      "fabricantesNome": "Ford",
+      "imagem": "https://i.ibb.co/gV88qRv/escort.jpg",
+      "ano": "1993",
+      "id": 1
+    },
+    {
+      "nome": "WR-V",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/2cMqVD3/WR-V.webp",
+      "ano": "2021",
+      "id": 2
+    },
+    {
+      "nome": "Civic",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/VtgCLqd/2022-honda-civic-mugen-front-view.webp",
+      "ano": "2022",
+      "id": 3
+    },
+    {
+      "nome": "NSX",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/CPs7mPw/Honda-Acura.jpg",
+      "ano": "2015",
+      "id": 4,
+      "fabricante": "Honda"
+    },
+    {
+      "nome": "CR-V",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/jJ80jcX/CRV.webp",
+      "ano": "2019",
+      "id": 5
+    },
+    {
+      "nome": "Fit",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/jTmbLB7/Honda-Fit-2022.webp",
+      "ano": "2018",
+      "id": 6
+    },
+    {
+      "nome": "City",
+      "fabricantesNome": "Honda",
+      "imagem": "https://i.ibb.co/DwwYwzt/City.webp",
+      "ano": "2020",
+      "id": 7
+    }
+  ]
+}
