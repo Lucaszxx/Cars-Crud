@@ -9,10 +9,14 @@
  ## Indice
  * [Indice](#indice)
  * [Descrição do projeto](#descrição-do-projeto)
+ * [Tecnologias e bibliotecas usadas](tecnologias-e-bibliotecas-usadas)
  * [Funcionalidades Desktop](#funcionalidades-desktop)
  
  ## Descrição do projeto
  <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
+ 
+ ## Tecnologias e bibliotecas usadas
+ <p>Axios</p>
  
  ## Funcionalidades Desktop
 <h2 align="center">Index</h2> 
