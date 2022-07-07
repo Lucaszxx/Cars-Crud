@@ -8,19 +8,17 @@
 <img src="https://img.shields.io/badge/Data%20de%20finaliza%C3%A7%C3%A3o%20do%20projeto-07%2F07%2F2022-blue"/>
 </p>
  
- ## Índice
- 
+ ## Indice
  * [Titulo e imagem da capa](#titulo-e-imagem-da-capa)
  * [Badges](#badges)
- * [Índice](indice)
+ * [Indice](#indice)
  * [Descrição do projeto](#descrição-do-projeto)
- * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-
+ * [Funcionalidades Desktop](#funcionalidades-desktop)
  
  ## Descrição do projeto
  <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
  
- ## Funcionalidades e demonstração da aplicação - Desktop
+ ## Funcionalidades Desktop
 <h2 align="center">Index</h2> 
  <img src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Home%20Desktop.png"/>
 <h2 align="center">Listagem de veiculos</h2>
