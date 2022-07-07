@@ -9,6 +9,4 @@
 </p>
  
  ## Índice
-* [titulo e imagem da capa](#titulo-e-imagem-da-capa)
- * [Badges](#badges)
- * [Índice](#índice)
+
