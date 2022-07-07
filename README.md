@@ -1,4 +1,4 @@
-## titulo e imagem da capa
+## Titulo e imagem da capa
 <h1 align="center">Cars Crud<h1/>
 <img src="https://i.ibb.co/M9ctfzk/BANNER-APP.png"/>
 
@@ -9,4 +9,17 @@
 </p>
  
  ## Índice
+ 
+ * [Titulo e imagem da capa](#titulo-e-imagem-da-capa)
+ * [Badges](#badges)
+ * [Índice](indice)
+ * [Descrição do projeto](#descrição-do-projeto)
+ * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+ 
+ ## Descrição do projeto
+ <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
+ 
+ ## Funcionalidades e demonstração da aplicação
+ 
+ 
 
