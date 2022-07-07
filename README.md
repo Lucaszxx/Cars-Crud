@@ -1,3 +1,4 @@
+
 <h1 align="center">Cars Crud<h1/>
 <img src="https://i.ibb.co/M9ctfzk/BANNER-APP.png"/>
 
@@ -11,6 +12,7 @@
  * [📒Descrição do projeto](#descrição-do-projeto)
  * [🔧Tecnologias e bibliotecas usadas](#tecnologias-e-bibliotecas-usadas)
  * [💻Funcionalidades Desktop](#funcionalidades-desktop)
+ * [📱Funcionalidades Mobile](#funcionalidades-mobile)
  
  ## 📒Descrição do projeto
  <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
@@ -42,16 +44,23 @@
 
 https://user-images.githubusercontent.com/72465514/177859620-482ec1f6-30e5-441c-8057-161c27671d2f.mp4
 
-## Funcionalidades Mobile
+## 📱Funcionalidades Mobile
 <h2 align="center">Index</h2> 
- <imgwidth="40%" src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Home%20mobile.jpg"/>
+ <p align="center">
+ <img width="40%" src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Home%20mobile.jpg"/>
+ </p>
 <h2 align="center">Listagem de veiculos</h2>
+ <p align="center">
  <img align="center" width="40%" src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Listagem%20mobile.jpg"/>
+ </p>
 <h2 align="center">Alterar</h2>
+ <p align="center">
  <img align="center" width="40%" src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Alterar%20Mobile.jpg"/>
-<h2 align="center">Adicionar</h2>
+ </p>
+ <h2 align="center">Adicionar</h2>
+ <p align="center">
  <img align="center" width="40%" src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Adicionar%20Mobile.jpg"/>
- 
+ </p>
 
 
 
