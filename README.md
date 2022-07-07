@@ -6,19 +6,25 @@
 <img src="https://img.shields.io/badge/Data%20de%20finaliza%C3%A7%C3%A3o%20do%20projeto-07%2F07%2F2022-blue"/>
 </p>
  
- ## Indice
- * [Indice](#indice)
- * [Descrição do projeto](#descrição-do-projeto)
- * [Tecnologias usadas](tecnologias-usadas)
- * [Funcionalidades Desktop](#funcionalidades-desktop)
+ ## 📖Índice
+ * [📖Índice](#índice)
+ * [📒Descrição do projeto](#descrição-do-projeto)
+ * [🔧Tecnologias e bibliotecas usadas](#tecnologias-e-bibliotecas-usadas)
+ * [💻Funcionalidades Desktop](#funcionalidades-desktop)
  
- ## Descrição do projeto
+ ## 📒Descrição do projeto
  <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
  
- ## Tecnologias usadas
- <p>Axios</p>
+ ## 🔧Tecnologias e bibliotecas usadas
+ <ul>
+   <li>React.Js</li>
+   <li>Json-Server</li>
+   <li>Axios</li>
+   <li>React-Router-Dom</li>
+   <li>Styled-Components</li>
+ </ul>
  
- ## Funcionalidades Desktop
+ ## 💻Funcionalidades Desktop
 <h2 align="center">Index</h2> 
  <img src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Home%20Desktop.png"/>
 <h2 align="center">Listagem de veiculos</h2>
