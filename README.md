@@ -20,8 +20,7 @@
  ## Descrição do projeto
  <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
  
- ## Funcionalidades e demonstração da aplicação
-<h2>Desktop</h2>
+ ## Funcionalidades e demonstração da aplicação - Desktop
 <h2 align="center">Index</h2> 
  <img src="https://github.com/Lucaszxx/Cars-Crud/blob/master/ReadMeFiles/Home%20Desktop.png"/>
 <h2 align="center">Listagem de veiculos</h2>
