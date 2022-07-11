@@ -15,7 +15,7 @@
  * [📱Funcionalidades Mobile](#funcionalidades-mobile)
  
  ## 📒Descrição do projeto
- <p>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</p>
+ <p>O projeto foi feito visando um APP onde o usuário possa fazer um crud completo das fabricantes que contém na aplicação, como adicionar novos modelos, exclui-los e edita-los. Com isso, o usuário pode adicionar fotos de um modelo, ano, nome e a sua fabricante.</p>
  
  ## 🔧Tecnologias e bibliotecas usadas
  <ul>
